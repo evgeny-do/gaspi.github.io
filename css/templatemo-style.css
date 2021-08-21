@@ -50,8 +50,9 @@ h1,h2 {
 
 /* images retina */
 img {
-  max-width: 100%;
-  height: auto;
+	max-width: 100%;
+	height: 200px;
+	width: 400px;
 }
 
 /* button section */
